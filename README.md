@@ -1,6 +1,6 @@
 ## Description
 
-A helper function to make a highpass on a blur's difference, based on an [AviSynth script by Didée](https://forum.doom9.org/showthread.php?p=1584186#post1584186).
+A helper function to make a highpass on a blur's difference, based on an [AviSynth script by Didée](https://forum.doom9.org/showthread.php?p=1584186#post1584186) and originally written by tritical and tp7.
 
 ### Requirements:
 
