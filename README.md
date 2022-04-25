@@ -52,8 +52,8 @@ sbrV (clip input, int "y", int "u", int "v", int "opt")
         - CMake >= 3.16
     ```
     ```
-    git clone https://github.com/Asd-g/vinverse && \
-    cd vinverse && \
+    git clone https://github.com/Asd-g/AviSynth-sbr && \
+    cd AviSynth-sbr && \
     mkdir build && \
     cd build && \
 
